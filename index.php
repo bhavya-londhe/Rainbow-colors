@@ -1,5 +1,5 @@
 <?php 
 
-echo "Hello Github Hello Bitbucket!";
+echo "Hello Github";
 
 ?>
